@@ -170,3 +170,11 @@
         opacity: 1;
     }
 }
+
+/*Boite de dialogue notification*/
+.box {
+    z-index: 30;
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+}
